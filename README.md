@@ -4,7 +4,7 @@
   - formatting / structuring languages: HTML + CSS / XML / JSON / YAML
   - database: SQL (MySQL, sqlite), NoSQL (Memcached, Redis, RethinkDB)
   - directions: software reuse, frameworks, automatization, DevOps, 
-  - technologies & frameworks: microservices (SOAP, REST), symfony
+  - technologies & frameworks: microservices (SOAP, REST), symfony, containerization (Docker, docker-compose)
   - platforms: windows, linux, arduino (microcontrollers)
   - hobbies: chess, chess composition, reading, writing
 - 🌱 I’m currently learning ... I’m constantly learning!
